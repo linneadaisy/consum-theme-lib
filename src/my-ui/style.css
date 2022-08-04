@@ -1,0 +1,34 @@
+.theme-light {
+  background-color: #eeeeee;
+  color: #000000;
+}
+
+.theme-dark {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.theme-blue {
+  background-color: #0c0c4e;
+}
+
+.panel {
+  padding: 6px 10px;
+}
+
+.field {
+  padding: 8px;
+}
+
+.input {
+  display: block;
+}
+
+.button {
+  margin: 10px 4px;
+}
+
+.button.theme-blue {
+  background-color: #24245c;
+  color: #ffffff;
+}
